@@ -1,0 +1,4 @@
+interface:
+  display_name: "高品質簡報完整工作流"
+  short_description: "以內容治理、樣張核准、逐頁 QA 與交付驗證製作高品質簡報"
+  default_prompt: "Use $high-quality-presentation-workflow to plan and produce a high-quality Traditional Chinese presentation with approval gates and full QA."

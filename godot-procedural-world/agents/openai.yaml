@@ -1,0 +1,6 @@
+interface:
+  display_name: "Godot Procedural World"
+  short_description: "建立可重現、模組化且高效的 Godot 程序世界"
+  default_prompt: "Use $godot-procedural-world to design a deterministic procedural-world framework for this Godot 4 project."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "save：知識庫蒸餾與整理"
+  short_description: "capture 模式安全寫入收件匣；consolidate 模式把收件匣併入正式分類、更新索引與每日復盤"
+  default_prompt: "使用 $save 整理本次任務產生的長期知識（capture 模式）。"
+  consolidate_prompt: "使用 $save 以 consolidate 模式，把 01-收件匣 目前累積的筆記併入正式分類、更新索引並寫入每日復盤。"

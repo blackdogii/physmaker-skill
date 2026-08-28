@@ -1,0 +1,4 @@
+interface:
+  display_name: "PhysMaker 網站架構師"
+  short_description: "高效且完整地完成 PhysMaker 架構分析、交接與驗收"
+  default_prompt: "Use $physmaker-website-architect to evaluate this PhysMaker change with relevance-first context selection without sacrificing completeness."
