@@ -1,10 +1,10 @@
 ---
-name: session-handoff
+name: goodbye
 description: Write a short handoff note so the next work session on this project can pick up immediately without re-explaining context. Use when the user explicitly invokes this skill by name, says they're wrapping up, stopping for now, done for today, or asks "how do I hand this off / pick this back up next time" — for any project, not tied to any particular knowledge base. Also use mid-session when the user says to jot down / note down / remember a specific finding so it survives to next time.
 disable-model-invocation: true
 ---
 
-# Session Handoff
+# Goodbye
 
 A lightweight, project-local version of "distill and hand off" — no shared knowledge base, no classification taxonomy, no cross-project index. Everything lives in one file inside the project itself, so anyone who opens the project (including a different person, or the same person a week later) can read one file and know exactly where things stand.
 
