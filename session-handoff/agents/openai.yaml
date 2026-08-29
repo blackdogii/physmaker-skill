@@ -1,0 +1,7 @@
+interface:
+  display_name: "Session Handoff"
+  short_description: "Write a project-local handoff note before wrapping up"
+  default_prompt: "Use session-handoff to write a today-done / not-done / next-step / watch-out-for note for this project."
+
+policy:
+  allow_implicit_invocation: false
